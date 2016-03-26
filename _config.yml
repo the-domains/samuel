@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.12345071113136308
+  lightness: 0.9843139073648584
+  rhythmicContrast: 0.7758048591012922
+  saturation: 0.28458651248420797
+cta: {}
+layout_spectrum: 0.3572475669859355
+name: Samuel
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.7446523188723665
